@@ -3,7 +3,9 @@
 
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
-### Since Chat GPT is coming into use more and more and is being used massively, this application will give you the opportunity to find and share creative AI-prompts.
+### Since Chat GPT is coming into use more and more and is being used massively, this application will give you the opportunity to find and share creative AI-prompts. This FullStack CRUD application built with Nextjs and MongoDB offers you the possibility of an interesting introduction to AI habits and the way it thinks. 
+
+---
 
 First, run the development server:
 
